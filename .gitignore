@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.DS_Store
+.streamlit/secrets.toml
+checkpoints/*.pt
+checkpoints/*.pth
+checkpoints/*.ts
+*.npz
+outputs/*.csv
+outputs/*.json

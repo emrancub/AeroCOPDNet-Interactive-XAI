@@ -1,0 +1,21 @@
+audio:
+  sample_rate: 4000
+  n_fft: 1024
+  hop_length: 512
+  n_mels: 64
+  fmin: 50
+  fmax: 2000
+  highpass_hz: 50
+  max_seconds: 30
+quality:
+  silence_db: -45.0
+  clipping_threshold: 0.995
+  max_clipping_fraction: 0.01
+  max_silence_fraction: 0.80
+saliency:
+  smoothgrad_samples: 24
+  noise_std: 0.08
+  deletion_fractions: [0.00, 0.05, 0.10, 0.15, 0.20, 0.30]
+  random_trials: 20
+model:
+  threshold: 0.50

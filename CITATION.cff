@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use the AeroCOPDNet acoustic framework, please cite the article below."
+title: "AeroCOPDNet Interactive XAI Dashboard"
+version: 2.0.0
+authors:
+  - family-names: Hasan
+    given-names: Md Emran
+preferred-citation:
+  type: article
+  title: "AeroCOPDNet: A deep learning framework for COPD detection from lung sounds"
+  authors:
+    - family-names: Hasan
+      given-names: Md Emran
+    - family-names: Wu
+      given-names: Yue-Fang
+    - family-names: Yu
+      given-names: Dong-Jun
+  journal: "Biomedical Signal Processing and Control"
+  volume: 119
+  year: 2026
+  doi: "10.1016/j.bspc.2026.109939"
