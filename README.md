@@ -1,4 +1,4 @@
-# AeroCOPDNet Interactive XAI Dashboard v2
+# AeroCOPDNet Interactive XAI Dashboard
 
 A research-grade Streamlit project for **reviewable COPD screening from respiratory audio** using the AeroCOPDNet acoustic model.
 
