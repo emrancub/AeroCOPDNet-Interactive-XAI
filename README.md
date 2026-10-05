@@ -6,6 +6,11 @@ This repository is designed to accompany the forum manuscript:
 
 > **Interpretable AeroCOPDNet: Lightweight and Explainable COPD Screening from Respiratory Sounds with Saliency-Guided Validation and an Interactive Review Dashboard**
 
+## Tutorials
+
+- Video tutorial: [`AeroCOPDNet.wmv`](AeroCOPDNet.wmv)
+- PDF tutorial: [`AeroCOPDNet_Dashboard_Tutorial.pdf`](AeroCOPDNet_Dashboard_Tutorial.pdf)
+
 ## What this project provides
 
 - WAV upload and standardized 4 kHz preprocessing
