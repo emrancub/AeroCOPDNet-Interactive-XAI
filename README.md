@@ -8,8 +8,15 @@ This repository is designed to accompany the forum manuscript:
 
 ## Tutorials
 
-- Video tutorial: [`AeroCOPDNet.wmv`](AeroCOPDNet.wmv)
-- PDF tutorial: [`AeroCOPDNet_Dashboard_Tutorial.pdf`](AeroCOPDNet_Dashboard_Tutorial.pdf)
+### Video tutorial
+
+[![Watch the AeroCOPDNet Dashboard Video Tutorial](assets/dashboard_concept.png)](AeroCOPDNEt.wmv)
+
+**▶ Click the image above to open the AeroCOPDNet video tutorial.**
+
+### PDF tutorial
+
+[📄 Open the AeroCOPDNet Dashboard Tutorial (PDF)](AeroCOPDNet_Dashboard_Tutorial.pdf)
 
 ## What this project provides
 
